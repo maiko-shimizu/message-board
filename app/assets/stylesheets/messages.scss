@@ -16,8 +16,14 @@ body {
     word-break: break-all;
 }
 
+.field_with_errors{
+    width: 100%;
+    desplay: inline-block;
+    border: 1px solid #f00;
+}
+
 form {
-  padding-top: 50px;
+  padding-top: 30px;
 }
 
 label {
